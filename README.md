@@ -1,7 +1,7 @@
 ## 在线简历
 
 - [网页版](http://imxie.cc/resume/)
-- [PDF版](./resume.pdf)
+- [PDF版](http://imxie.cc/resume/resume.pdf)
 
 
 
